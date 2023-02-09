@@ -12,6 +12,8 @@ Unleash the storyteller in you (preliminary).
 
 Do you have 15 minutes? Then better take a look at [this talk](https://nlesc-my.sharepoint.com/personal/e_tjongkimsang_esciencecenter_nl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fe%5Ftjongkimsang%5Fesciencecenter%5Fnl%2FDocuments%2FRecordings%2FColloquium%20Pablo%20Rodriguez%2DSanchez%2D20221124%5F110724%2DMeeting%20Recording%2Emp4&referrer=OfficeHome&referrerScenario=EDGEWORTH).
 
+Slides available [here](https://nlesc-my.sharepoint.com/:p:/g/personal/p_rodriguez-sanchez_esciencecenter_nl/EU6Z-MKV9GdAtSgyzX5MAcgBIFVv67uCVbVet1ebcGOBSw?e=FOnWjY).
+
 ## Who acts as SIG Lead?
 
 - Pablo Rodríguez-Sánchez.
