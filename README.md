@@ -1,14 +1,14 @@
-# SIG proposal
+# SIG description
 
-## What will be the name of the SIG?
+## What is the name of the SIG?
 
 Science Communication SIG.
 
-## What is/will be the SIG's motto?
+## What is the SIG's motto?
 
 Unleash the storyteller in you (preliminary).
 
-## Who will act as SIG Lead?
+## Who acts as SIG Lead?
 
 - Pablo Rodríguez-Sánchez.
 - Lieke de Boer will also be involved in chairing the sessions.
