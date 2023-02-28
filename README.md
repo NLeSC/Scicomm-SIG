@@ -1,5 +1,14 @@
 # Science Communication SIG <img src="img/logo.png" width="120" align="right" />
 
+## Schedule
+
+| Session  |      Topic      |  Chair   |
+|:--------:|:---------------:|:--------:|
+|   May    | Talk by Sander? |   TBA    |
+|  April   |  Writing club   |  Lieke   |
+|  March   |       TBA       |   TBA    |
+| February |    Kick-off     | Pablo R. |
+
 ## What is the name of the SIG?
 
 Science Communication SIG.
