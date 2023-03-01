@@ -1,4 +1,4 @@
-# Science Communication SIG <img src="img/logo.png" width="120" align="right" />
+# Science Communication SIG <img src="../img/logo.png" width="120" align="right" />
 
 ## What is the name of the SIG?
 
