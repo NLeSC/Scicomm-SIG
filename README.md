@@ -18,3 +18,5 @@ Unleash the storyteller in you.
 ## Links
 
 Want to know more about this SIG? Take a look at our [foundational document](./docs/foundation.md).
+
+We also keep a [curated list of materials](./docs/materials.md).
