@@ -13,7 +13,7 @@ Unleash the storyteller in you.
 
 ## Current lead
 
-- [Pablo R.](@PabRod) (p.rodriguez-sanchez@esciencecenter.nl)
+- [Pablo R.](https://github.com/PabRod) (p.rodriguez-sanchez@esciencecenter.nl)
 
 ## Links
 
