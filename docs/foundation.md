@@ -64,8 +64,33 @@ Increase the visibility of the eScience Center to the outside world. More specif
 
 Our SIG has natural links with:
 
-- **The blogging editorial team**: the idea of this SIG was born among the members of the blogging editorial team. We'll be colaborating closely to publish (most of) the outcomes of this SIG.
-- **The four scientific sections**: every engineer is encouraged to do some communication about their projects (other topics are also welcome). We aim to create an enjoyable space for this to happen. Additionally, some projects involve the writing of manuals and storylines, for which we can also provide, at the very least, a brainstorming space.
-- **UX - Web SIG**: better texts and storylines are a fundamental part of the user experience. Layouts and formats are part of the readers experience as well.
-- **Visualization SIG**: visualization and storytelling are deeply related.
-- **Soft skills SIG**: communication is one of the core soft skills, but it is broad and strategic enough to deserve its own specialized SIG.
+### The blogging editorial team
+
+The idea of this SIG was born among the members of the blogging editorial team. We'll be colaborating closely to publish (most of) the outcomes of this SIG. The table below summarizes which domains correspond to each:
+
+| Concept                           | SIG | Editorial |
+|-----------------------------------|-----|-----------|
+| Seminars                          | x   |           |
+| External speakers                 | x   |           |
+| Topic brainstorming               | x   |           |
+| Early drafts                      | x   |           |
+| Advanced drafts                   |     | x         |
+| Blog proposals                    |     | x         |
+| Edition, publishing and promotion |     | x         |
+| Trainings                         | x   | x         |
+
+### The four scientific sections
+
+Every engineer is encouraged to do some communication about their projects (other topics are also welcome). We aim to create an enjoyable space for this to happen. Additionally, some projects involve the writing of manuals and storylines, for which we can also provide, at the very least, a brainstorming space.
+
+### The UX - Web SIG
+
+Better texts and storylines are a fundamental part of the user experience. Layouts and formats are part of the readers experience as well.
+
+### Visualization SIG
+
+Visualization and storytelling are deeply related to science communication.
+
+### The Soft skills SIG
+
+Communication is one of the core soft skills, but it is broad and strategic enough to deserve its own specialized SIG.
