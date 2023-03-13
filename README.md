@@ -4,12 +4,12 @@ Unleash the storyteller in you.
 
 ## Schedule
 
-|     Session     |            Topic            |  Chair   |
-|:---------------:|:---------------------------:|:--------:|
-|   May 4 2023    |    Talk by Sander (TBA)     |   TBA    |
-|  April 6 2023   |     Writing club (TBA)      |  Lieke   |
-|  March 9 2023   | Most likely cancelled (TBA) |   TBA    |
-| February 9 2023 |          Kick-off           | Pablo R. |
+|     Session     |        Topic         |  Chair   |
+|:---------------:|:--------------------:|:--------:|
+|   May 4 2023    | Talk by Sander (TBA) |   TBA    |
+|  April 6 2023   |     Writing club     |  Lieke   |
+|  March 9 2023   |      Cancelled       |    -     |
+| February 9 2023 |       Kick-off       | Pablo R. |
 
 ## Current lead
 
