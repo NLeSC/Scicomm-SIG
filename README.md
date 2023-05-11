@@ -6,6 +6,7 @@ Unleash the storyteller in you.
 
 |     Session     |        Topic         |  Chair   |
 |:---------------:|:--------------------:|:--------:|
+|   June 1 2023   |     Writing club     |   TBA    |
 |   May 4 2023    |    Talk by Sander    | Pablo R. |
 |  April 6 2023   |     Writing club     |  Lieke   |
 |  March 9 2023   |      Cancelled       |    -     |
