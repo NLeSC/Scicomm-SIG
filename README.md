@@ -6,7 +6,7 @@ Unleash the storyteller in you.
 
 |     Session     |                      Topic                      |  Chair   |
 |:---------------:|:-----------------------------------------------:|:--------:|
-|  June 29 2023   | Large languade models and science communication |  Lieke   |
+|  June 29 2023   | Large language models and science communication |  Lieke   |
 |   June 1 2023   |                  Writing club                   | Pablo R. |
 |   May 4 2023    |                 Talk by Sander                  | Pablo R. |
 |  April 6 2023   |                  Writing club                   |  Lieke   |
