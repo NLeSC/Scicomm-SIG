@@ -4,14 +4,14 @@ Unleash the storyteller in you.
 
 ## Schedule
 
-|     Session     |           Topic           |  Chair   |
-|:---------------:|:-------------------------:|:--------:|
+|     Session     |                      Topic                      |  Chair   |
+|:---------------:|:-----------------------------------------------:|:--------:|
 |  June 29 2023   | Large languade models and science communication |  Lieke   |
-|   June 1 2023   |       Writing club        | Pablo R. |
-|   May 4 2023    |      Talk by Sander       | Pablo R. |
-|  April 6 2023   |       Writing club        |  Lieke   |
-|  March 9 2023   |         Cancelled         |    -     |
-| February 9 2023 |         Kick-off          | Pablo R. |
+|   June 1 2023   |                  Writing club                   | Pablo R. |
+|   May 4 2023    |                 Talk by Sander                  | Pablo R. |
+|  April 6 2023   |                  Writing club                   |  Lieke   |
+|  March 9 2023   |                    Cancelled                    |    -     |
+| February 9 2023 |                    Kick-off                     | Pablo R. |
 
 ## Current lead
 
