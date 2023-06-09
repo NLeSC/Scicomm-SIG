@@ -13,6 +13,12 @@ Unleash the storyteller in you.
 |  March 9 2023   |                    Cancelled                    |    -     |
 | February 9 2023 |                    Kick-off                     | Pablo R. |
 
+All sessions take place at 14:30, live and online.
+
+## Blog
+
+Take a look at our [eScience blog](https://blog.esciencecenter.nl)!
+
 ## Current lead
 
 - [Pablo R.](https://github.com/PabRod) (p.rodriguez-sanchez@esciencecenter.nl)
