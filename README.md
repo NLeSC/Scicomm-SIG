@@ -8,6 +8,8 @@ All sessions take place at 14:30, live and online.
 
 |     Session     |                      Topic                      |  Chair   |
 |:---------------:|:-----------------------------------------------:|:--------:|
+| January 4 2023  |                  Cancelled                      |          |
+|November 23 2023 |                  Cancelled                      |          |
 |  October 5 2023 |                  Writing club                   | Pablo R. |
 |  June 29 2023   | Large language models and science communication |  Lieke   |
 |   June 1 2023   |                  Writing club                   | Pablo R. |
